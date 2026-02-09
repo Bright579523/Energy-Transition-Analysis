@@ -11,7 +11,8 @@
 ## 📸 Dashboard Preview
 
 ### 1. Global Energy Transition Tracker (Overview)
-![Overview Page](assets/overview.png)
+![Overview Page](assets/overview.png)<img width="1269" height="711" alt="image" src="https://github.com/user-attachments/assets/9611fe0e-ae6d-41c6-991f-31ff503fa640" />
+
 *(Please ensure your screenshot file is named 'overview.png' and placed in 'assets' folder)*
 
 ### 2. Energy Transition Diagnostics (Deep Dive)
