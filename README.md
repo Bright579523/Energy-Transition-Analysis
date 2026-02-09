@@ -63,7 +63,7 @@ How to Use
 4.Hover over charts to see custom Tooltips with detailed metrics.
 
 Author
-Watcharapol Anekthanaset Master's Student in Data Science | Ex-Sales Engineer 
+Watcharapon Anaketanaset : Master's Student in Data Science | Ex-Sales Engineer 
 Contact me : www.linkedin.com/in/watcharapon-anaketanaset-1043b9147
 
 ---
