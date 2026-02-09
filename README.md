@@ -12,11 +12,11 @@
 
 ### 1. Global Energy Transition Tracker (Overview)
 
-(assets/overview.png)<img width="1269" height="711" alt="image" src="https://github.com/user-attachments/assets/9611fe0e-ae6d-41c6-991f-31ff503fa640" />
+<img width="1269" height="711" alt="image" src="https://github.com/user-attachments/assets/9611fe0e-ae6d-41c6-991f-31ff503fa640" />
 
 ### 2. Energy Transition Diagnostics (Deep Dive)
 
-(assets/diagnostics.png)<img width="1268" height="712" alt="image" src="https://github.com/user-attachments/assets/a76adf50-5fb2-4f23-b33a-bd378e7dd51e" />
+<img width="1268" height="712" alt="image" src="https://github.com/user-attachments/assets/a76adf50-5fb2-4f23-b33a-bd378e7dd51e" />
 
 ---
 
